@@ -6,8 +6,8 @@ edition = "2018"
 
 [dependencies]
 serde = "=1.0.123"
-hdk = {git = "https://github.com/holochain/holochain.git", rev = "", package = "hdk"}
- holo_hash = { git = "https://github.com/holochain/holochain.git", rev = "86d6b2db3829f198b947a26181cc7cb67bf7178b", package = "holo_hash" }
+hdk = {git = "https://github.com/holochain/holochain.git", rev = "8d6c4cd29bd17e8224aeffb87dc03eaf3ff33508", package = "hdk"}
+holo_hash = { git = "https://github.com/holochain/holochain.git", rev = "8d6c4cd29bd17e8224aeffb87dc03eaf3ff33508", package = "holo_hash" }
 #holo_hash = "0.0.2-alpha.1"
 thiserror = "1.0.22"
 
